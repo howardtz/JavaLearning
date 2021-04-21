@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/chap4/hotel/Client.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/chap4/hotel/Hotel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/chap4/hotel/Room.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ex/sim/client/StudentApplication.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ex/sim/dao/impl/StudentDaoImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ex/sim/util/ConnectionFactory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ex/ums/data/userData.dat" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ums2/client/AddRoleDialog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ums2/client/AdminLoginFrame.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ums2/client/DeleteRoleDialog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ums2/client/DeleteUserDialog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ums2/client/Menu.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ums2/client/ModifyUserDialog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ums2/client/RegisteAdminDialog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ums2/client/RegisteUserDialog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ums2/client/SearchUserDialog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ums2/client/ShowAdminTableDialog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ums2/client/ShowRoleTableDialog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ums2/client/ShowUserTableDialog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ums2/dao/AdminDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/ums2/dao/impl/AdminDaoImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ums2/dao/impl/UserDaoJdbcImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ums2/entity/Administrator.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ums2/entity/Role.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ums2/service/RemoveRoleService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ums2/util/AdminTableModel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ums2/util/ConnectionFactory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ums2/util/DaoFactory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ums2/util/PaginationUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ums2/util/RoleTableModel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ums2/util/UserTableModel.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
